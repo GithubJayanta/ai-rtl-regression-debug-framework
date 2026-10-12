@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # AI-Assisted RTL Regression and Debug Automation Framework
 
 **Automated RTL regression · Failure classification · AI-assisted
