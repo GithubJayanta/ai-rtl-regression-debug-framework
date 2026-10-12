@@ -1,0 +1,129 @@
+{
+  "bug_enabled": true,
+  "total_runs": 20,
+  "classification_counts": {
+    "BUG_DETECTED": 20
+  },
+  "results": [
+    {
+      "seed": 1,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_1/log.txt"
+    },
+    {
+      "seed": 2,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_2/log.txt"
+    },
+    {
+      "seed": 3,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_3/log.txt"
+    },
+    {
+      "seed": 4,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_4/log.txt"
+    },
+    {
+      "seed": 5,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_5/log.txt"
+    },
+    {
+      "seed": 6,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_6/log.txt"
+    },
+    {
+      "seed": 7,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_7/log.txt"
+    },
+    {
+      "seed": 8,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_8/log.txt"
+    },
+    {
+      "seed": 9,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_9/log.txt"
+    },
+    {
+      "seed": 10,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_10/log.txt"
+    },
+    {
+      "seed": 11,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_11/log.txt"
+    },
+    {
+      "seed": 12,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_12/log.txt"
+    },
+    {
+      "seed": 13,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_13/log.txt"
+    },
+    {
+      "seed": 14,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_14/log.txt"
+    },
+    {
+      "seed": 15,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_15/log.txt"
+    },
+    {
+      "seed": 16,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_16/log.txt"
+    },
+    {
+      "seed": 17,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_17/log.txt"
+    },
+    {
+      "seed": 18,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_18/log.txt"
+    },
+    {
+      "seed": 19,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_19/log.txt"
+    },
+    {
+      "seed": 20,
+      "classification": "BUG_DETECTED",
+      "bug_enabled": true,
+      "log": "runs/seed_20/log.txt"
+    }
+  ]
+}

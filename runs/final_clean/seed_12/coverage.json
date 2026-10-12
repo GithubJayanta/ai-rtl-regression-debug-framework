@@ -1,0 +1,11 @@
+{
+  "cycles_run": 2000,
+  "empty_cycles": 2,
+  "full_cycles": 677,
+  "simultaneous_requests": 458,
+  "writes_blocked_full": 396,
+  "reads_blocked_empty": 1,
+  "accepted_writes": 774,
+  "accepted_reads": 767,
+  "max_occupancy": 8
+}

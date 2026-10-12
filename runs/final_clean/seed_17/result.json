@@ -1,0 +1,15 @@
+{
+  "seed": 17,
+  "bug_enabled": false,
+  "passed": true,
+  "exit_code": 0,
+  "test_count": 1,
+  "failed_or_skipped_tests": 0,
+  "duration_seconds": 24.952,
+  "timed_out": false,
+  "error": null,
+  "log": "runs/final_clean/seed_17/log.txt",
+  "results_xml": "runs/final_clean/seed_17/results.xml",
+  "coverage": "runs/final_clean/seed_17/coverage.json",
+  "waveform": "runs/final_clean/seed_17/waveform.vcd"
+}

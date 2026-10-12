@@ -1,0 +1,129 @@
+{
+  "bug_enabled": false,
+  "total_runs": 20,
+  "classification_counts": {
+    "PASS": 20
+  },
+  "results": [
+    {
+      "seed": 1,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_1/log.txt"
+    },
+    {
+      "seed": 2,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_2/log.txt"
+    },
+    {
+      "seed": 3,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_3/log.txt"
+    },
+    {
+      "seed": 4,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_4/log.txt"
+    },
+    {
+      "seed": 5,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_5/log.txt"
+    },
+    {
+      "seed": 6,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_6/log.txt"
+    },
+    {
+      "seed": 7,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_7/log.txt"
+    },
+    {
+      "seed": 8,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_8/log.txt"
+    },
+    {
+      "seed": 9,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_9/log.txt"
+    },
+    {
+      "seed": 10,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_10/log.txt"
+    },
+    {
+      "seed": 11,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_11/log.txt"
+    },
+    {
+      "seed": 12,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_12/log.txt"
+    },
+    {
+      "seed": 13,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_13/log.txt"
+    },
+    {
+      "seed": 14,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_14/log.txt"
+    },
+    {
+      "seed": 15,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_15/log.txt"
+    },
+    {
+      "seed": 16,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_16/log.txt"
+    },
+    {
+      "seed": 17,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_17/log.txt"
+    },
+    {
+      "seed": 18,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_18/log.txt"
+    },
+    {
+      "seed": 19,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_19/log.txt"
+    },
+    {
+      "seed": 20,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/final_clean/seed_20/log.txt"
+    }
+  ]
+}

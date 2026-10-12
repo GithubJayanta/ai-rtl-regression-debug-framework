@@ -1,0 +1,2 @@
+/usr/bin/verilator
+{"seed": 3, "bug_enabled": true, "passed": false, "exit_code": 0, "test_count": 1, "failed_or_skipped_tests": 1, "duration_seconds": 32.707, "timed_out": false, "error": null, "log": "runs/seed_3/log.txt", "results_xml": "runs/seed_3/results.xml", "coverage": "runs/seed_3/coverage.json", "waveform": "runs/seed_3/waveform.vcd"}

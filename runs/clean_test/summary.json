@@ -1,0 +1,38 @@
+{
+  "bug_enabled": false,
+  "total_runs": 2,
+  "passed": 2,
+  "failed": 0,
+  "results": [
+    {
+      "seed": 1,
+      "bug_enabled": false,
+      "passed": true,
+      "exit_code": 0,
+      "test_count": 1,
+      "failed_or_skipped_tests": 0,
+      "duration_seconds": 16.02,
+      "timed_out": false,
+      "error": null,
+      "log": "runs/clean_test/seed_1/log.txt",
+      "results_xml": "runs/clean_test/seed_1/results.xml",
+      "coverage": "runs/clean_test/seed_1/coverage.json",
+      "waveform": "runs/clean_test/seed_1/waveform.vcd"
+    },
+    {
+      "seed": 2,
+      "bug_enabled": false,
+      "passed": true,
+      "exit_code": 0,
+      "test_count": 1,
+      "failed_or_skipped_tests": 0,
+      "duration_seconds": 16.017,
+      "timed_out": false,
+      "error": null,
+      "log": "runs/clean_test/seed_2/log.txt",
+      "results_xml": "runs/clean_test/seed_2/results.xml",
+      "coverage": "runs/clean_test/seed_2/coverage.json",
+      "waveform": "runs/clean_test/seed_2/waveform.vcd"
+    }
+  ]
+}

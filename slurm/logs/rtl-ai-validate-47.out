@@ -1,0 +1,61 @@
+===== SLURM JOB INFORMATION =====
+Job ID: 47
+Host: Lenovo
+Mode: clean
+Seeds: 20
+Start: 2026-10-12T12:11:57+00:00
+Python 3.12.3
+Verilator 5.020 2024-01-01 rev (Debian 5.020-1)
+
+============================================================
+STAGE: Regression
+============================================================
+Regression: 20/20 passed
+Bug injection enabled: False
+Summary: /home/jayan_9007/ai-regression-triage/runs/slurm_clean_47/summary.json
+
+============================================================
+STAGE: Functional coverage
+============================================================
+20 seeds with coverage
+  cycles_run: 40000
+  empty_cycles: 78
+  full_cycles: 13057
+  simultaneous_requests: 9693
+  writes_blocked_full: 7862
+  reads_blocked_empty: 30
+  accepted_writes: 16182
+  accepted_reads: 16042
+  max_occupancy: 8
+  HIT  full_cycles
+  HIT  writes_blocked_full
+  HIT  reads_blocked_empty
+  HIT  simultaneous_requests
+
+============================================================
+STAGE: Failure classification
+============================================================
+{
+  "bug_enabled": false,
+  "total_runs": 20,
+  "classification_counts": {
+    "PASS": 20
+  },
+  "report": "/home/jayan_9007/ai-regression-triage/runs/slurm_clean_47/classification_report.json"
+}
+
+Skipping LLM triage: normal regression passed.
+
+============================================================
+PIPELINE SUMMARY
+============================================================
+Mode: NORMAL
+Seeds: 20
+Run directory: runs/slurm_clean_47
+Regression exit code: 0
+Coverage report exit code: 0
+Classification exit code: 0
+LLM triage exit code: 0
+PIPELINE COMPLETED.
+===== SLURM JOB FINISHED =====
+End: 2026-10-12T12:19:41+00:00

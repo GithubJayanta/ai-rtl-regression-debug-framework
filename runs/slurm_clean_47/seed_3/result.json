@@ -1,0 +1,15 @@
+{
+  "seed": 3,
+  "bug_enabled": false,
+  "passed": true,
+  "exit_code": 0,
+  "test_count": 1,
+  "failed_or_skipped_tests": 0,
+  "duration_seconds": 91.829,
+  "timed_out": false,
+  "error": null,
+  "log": "runs/slurm_clean_47/seed_3/log.txt",
+  "results_xml": "runs/slurm_clean_47/seed_3/results.xml",
+  "coverage": "runs/slurm_clean_47/seed_3/coverage.json",
+  "waveform": "runs/slurm_clean_47/seed_3/waveform.vcd"
+}

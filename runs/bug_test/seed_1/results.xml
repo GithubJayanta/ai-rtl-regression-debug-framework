@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1" />
+    <testcase name="random_traffic" classname="test_fifo" file="/home/jayan_9007/ai-regression-triage/tests/test_fifo.py" lineno="11" time="0.00506901741027832" sim_time_ns="281.001" ratio_time="55435.00391816001">
+      <failure message="Test failed with RANDOM_SEED=1" />
+    </testcase>
+  </testsuite>
+</testsuites>

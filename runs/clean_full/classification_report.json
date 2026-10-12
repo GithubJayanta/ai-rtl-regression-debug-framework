@@ -1,0 +1,21 @@
+{
+  "bug_enabled": false,
+  "total_runs": 2,
+  "classification_counts": {
+    "PASS": 2
+  },
+  "results": [
+    {
+      "seed": 1,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/clean_full/seed_1/log.txt"
+    },
+    {
+      "seed": 2,
+      "classification": "PASS",
+      "bug_enabled": false,
+      "log": "runs/clean_full/seed_2/log.txt"
+    }
+  ]
+}

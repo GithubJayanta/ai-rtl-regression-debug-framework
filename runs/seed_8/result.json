@@ -1,0 +1,1 @@
+{"seed": 8, "bug_enabled": true, "passed": false, "exit_code": 0, "test_count": 1, "failed_or_skipped_tests": 1, "duration_seconds": 36.691, "timed_out": false, "error": null, "log": "runs/seed_8/log.txt", "results_xml": "runs/seed_8/results.xml", "coverage": "runs/seed_8/coverage.json", "waveform": "runs/seed_8/waveform.vcd"}
