@@ -1,4 +1,3 @@
-
 # AI-Assisted RTL Regression and Debug Automation Framework
 
 **Automated RTL regression · Failure classification · AI-assisted
@@ -6,7 +5,6 @@ root-cause analysis**
 
 A reproducible verification workflow combining Verilog, Cocotb,
 Verilator, Python, SLURM, and Gemini-powered triage.
-:::
 
 ------------------------------------------------------------------------
 
