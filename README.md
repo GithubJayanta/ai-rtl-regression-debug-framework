@@ -133,7 +133,8 @@ From the seed 1 VCD of the bug-injected run:
 
 A waveform parser (`triage/parse_waveform.py`) extracts the signal transitions near the failure time for every seed, so the LLM receives evidence from the waveform and not just the error text.
 
-> 🖼️ Add your GTKWave screenshot here: `docs/fifo_bug_waveform.png` ![Uploading image.png…]()
+> 🖼️ Add your GTKWave screenshot here: `docs/fifo_bug_waveform.png` <img width="1456" height="813" alt="image" src="https://github.com/user-attachments/assets/65a9dbe1-0bdf-422a-b37c-70497cbb516e" />
+
 
 
 ---
